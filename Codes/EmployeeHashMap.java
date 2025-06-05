@@ -51,7 +51,7 @@ public class EmployeeHashMap {
 
 
         
-        Set<Integer> unique = new HashSet<>();
+        // Set<Integer> unique = new HashSet<>();
 
        
         
